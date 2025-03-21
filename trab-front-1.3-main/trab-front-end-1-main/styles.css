@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Pixels&family=Tektur:wght@400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Pixels&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rock+3D&family=Rubik+Pixels&display=swap');
+body{
+    background-color: aquamarine;
+}
+header{
+    font-family: "Rubik Pixels", system-ui;
+    font-style: normal;
+}
+main{
+    font-family: "Tektur", sans-serif;
+}
+footer{
+    font-family: "Tektur", sans-serif;
+}
+/*font-family: "Rock 3D", system-ui;*/
